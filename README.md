@@ -1,5 +1,6 @@
 # automacao_com_selenium
 Automação de testes com Selenium Webdriver no Python
+
 Inicialmente fiz o teste pelo Selenium IDE, exportei os comandos de testes em um arquivo de Python.
 Depois transformei cada formulário do site utilizado para o teste em um objeto, uma classe, e cada elemento de interação em um método.
 Inicialmente criei o arquivo WebDriver.py, onde tem uma classe de geração de objetos com webdriver do Selenium, para poder gerar todos os testes até para outros projetos.
