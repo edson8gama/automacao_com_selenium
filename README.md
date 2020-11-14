@@ -17,4 +17,4 @@ Dependências:
 
 Instalação do pacote do Selenium.
 
-ChromeDriver, última versão, só baixar e apontar o caminho no arquivo WebDriver.py em webdriver.Chrome().
+ChromeDriver, última versão, só baixar, descompactar e apontar o caminho do executável no WebDriver.py em webdriver.Chrome().
